@@ -1,0 +1,28 @@
+For version 1.1:
+>Improved imdb database enumration. 
+>No need to copy and paste links.
+
+For version 1.2:
+>UI improvements.
+>Added FTP password cracker
+>Minor bug fixes
+>Readme file Grammar improved :p
+
+For version 1.3:
+>UI improvements
+>Added DDOS tool
+
+For version 1.3.1:
+>Minor Bug Fixes
+>IMDB bug fix- utf8 encoding error
+>Icon added
+
+For version 2.0:
+>Much awaited Web Spider tool added
+>Port Scanning is much faster than before
+>Slight performance improvement in other tools
+>Now .py version available for linux
+>Useless image scanner removed
+
+For version 2.0.1:
+>IMDB search is working again
